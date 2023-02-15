@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+My name is Giancarlo Perez and I am a software engineer at Florida International University. My work is primarily in game development, VR, and robotics, specifically in the gameification of industrial robotics workflows and the use of VR as an immersion tool to facilitate learning.
+
+#### Projects
+
+Robotics Academy - A unity based software that allows the user to control a simulated KUKA industrial robot using methods based on the physical robot controller along with VR based controls to aid in visualization. https://ieeexplore.ieee.org/document/9149493 https://roboticsacademy.fiu.edu/demo-reel
+
+Virtual Tabadul - A browser VR software built on A-Frame for mobile devices. An educational tool built to help students from the middle east learn english and students from america learn arabic with the idea being that a vr experience will immerse the students and therefore increase the speed in which the language is learned. https://www.ojed.org/index.php/jis/article/view/4638
 
 <!--
 **GiancarloPerezWork/GiancarloPerezWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
